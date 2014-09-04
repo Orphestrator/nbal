@@ -1,6 +1,3 @@
-nbal
-====
-
 # node balancer
 
 nBal - node Balance - distribute load to multiple backends
