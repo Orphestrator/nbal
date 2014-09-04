@@ -1,16 +1,17 @@
 nbal
 ====
 
+# node balancer
+
 nBal - node Balance - distribute load to multiple backends
 
 
-Welcome
-=======
+## Welcome
 
 nBal is a load balancer written in NodeJS
 
-Installation
-============
+## Installation
+
 
 If you just want to use nBal you can easy install with npm.
 
@@ -18,8 +19,7 @@ If you just want to use nBal you can easy install with npm.
 $ npm install nbal
 ```
 
-Configure nBal
-==============
+## Configure nBal
 
 nBal provides several ways and strategies to distribute load.
 
@@ -27,19 +27,16 @@ The following tutorials should help to get a first impression to the possibiliti
 		  
   * Simple Setup
   
-Support
-=======
+## Support
 
 For best support and transparency us please:
 <https://github.com/Orphestrator/nbal/issues>
 
-Contribute
-==========
+## Contribute
 
 If you want to contribute please fork our repository and send us a pull request.
 
-License
-=======
+## License
 
 The MIT License (MIT)
 
