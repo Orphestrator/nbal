@@ -1,0 +1,32 @@
+{
+  "name": "nbal",
+  "version": "0.1.0",
+  "description": "Node Balancer - http load balancer",
+  "main": "nbal.js",
+  "scripts": {
+    "start": "node nbal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orphestrator/nbal"
+  },
+  "keywords": [
+    "load",
+    "balancer",
+    "balance",
+    "http"
+  ],
+  "author": "Orphestrator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orphestrator/nbal/issues"
+  },
+  "homepage": "http://orphestrator.github.io/nbal",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "log4js": "^0.6.20",
+    "q": "^1.0.1",
+    "yargs": "^1.3.1"
+  }
+}
